@@ -20,7 +20,7 @@ spec:
   - key: staging
   - key: production
   ingress:
-    domain: ""
+    domain: "k8s.msi-global.com.sg"
     externalDNS: false
     namespaceSubDomain: -jx.
     tls:
